@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": {
+    "include": ["lib/**/*.jar", "c:\\Users\\hanif\\Downloads\\JDBC\\mysql-connector-java-8.0.22.jar", "c:\\Users\\hanif\\Downloads\\mysql-connector-java-8.0.22.jar", "JBDCCRUD/mysql-connector-java-8.0.22.jar", "javacrud.jar"],
+    "exclude": ["c:\\Users\\JFR\\eclipse-workspace\\mysql-connector-java-8.0.22.jar", "c:\\UTS_PrakBPL\\mysql-connector-java-8.0.22.jar"]
+  }
+}
